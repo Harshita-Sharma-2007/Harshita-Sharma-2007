@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harshita Sharma</h1>
+<h3 align="center">BTech Student | Python Developer | AI/ML Enthusiast</h3>
 
-<!--
-**Harshita-Sharma-2007/Harshita-Sharma-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about solving problems with code and exploring the power of data & AI.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**BTech (2025 - Present)**  
+Panipat Institute of Engineering and Technology (PIET), Panipat
+
+---
+
+## 💼 About Me
+
+💻 Actively working with **Python, SQL, DBMS, and Web Development**
+
+🌱 Exploring my curiosity in:
+- HealthTech
+- Medical Imaging (MRI)
+- Data Quality Tooling
+- Artificial Intelligence / Machine Learning
+
+🚀 Interested in **Open Source Contributions**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python • C • JavaScript • SQL
+
+**Web Development**
+
+HTML • CSS
+
+**Tools**
+
+VS Code • Git • GitHub • Jupyter Notebook
+
+---
+
+## 📊 GitHub Stats
+
+![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+📧 harshita.vashisht07@gmail.com  
+📍 Delhi, India
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
