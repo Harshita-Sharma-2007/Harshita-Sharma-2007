@@ -38,6 +38,18 @@ Python • C • JavaScript • SQL
 
 HTML • CSS
 
+**Data Processing & Scientific Computing (Python)**
+
+NumPy • Pandas • SciPy
+
+**Data Visualization (Python)**
+
+Matplotlib • Seaborn • Plotly
+
+**Neuroimaging Libraries**
+
+NiBabel • Nilearn
+
 **Tools**
 
 VS Code • Git • GitHub • Jupyter Notebook
