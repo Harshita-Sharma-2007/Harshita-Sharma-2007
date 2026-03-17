@@ -11,6 +11,7 @@ Passionate about solving problems with code and exploring the power of data & AI
 
 **BTech (2025 - Present)** 
 Computer Science Engineering (CSE)
+
 Panipat Institute of Engineering and Technology (PIET), Panipat
 
 ---
